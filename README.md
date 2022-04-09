@@ -37,14 +37,14 @@
 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left"> <a href="https://twitter.com/adorn_choga" target="blank"><img src="https://img.shields.io/twitter/follow/adorn_choga?logo=twitter&style=for-the-badge" alt="adorn_choga" /></a> </p>
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adorn_choga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adorn_choga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adorn-choga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adorn-choga" height="30" width="40" /></a>
 </p>
 
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adornchoga&label=Profile%20views&color=0e75b6&style=flat" alt="adornchoga" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=AdornChoga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
