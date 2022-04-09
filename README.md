@@ -1,6 +1,10 @@
 ![Hi There ! (1)](https://user-images.githubusercontent.com/89528737/155587985-fdc509b7-8418-4369-a6d5-1b14aa2d0766.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adornchoga" alt="adornchoga" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adornchoga" alt="adornchoga" />
+  </a>
+</p>
 
 # 💻Tech Stack
 <hr />
